@@ -215,4 +215,4 @@ CataThumbs is offered as a full free version, including all features and updates
 Don't wait! Download CataThumbs today and start creating beautiful catalogs of your images effortlessly!
 
 ---
-**Last updated:** 2026-11-08 16:50:53 UTC
+**Last updated:** 2026-11-08 20:52:33 UTC
